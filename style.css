@@ -9,6 +9,13 @@
   src: url(assets/Garabato_bold.ttf);
 }
 
+p{
+    font-family: "acumin-pro", sans-serif;
+   font-size: 1.2rem;
+font-style:normal;
+line-height: 1.4rem;
+}
+
 h1{
 color: #000;
 text-align: center;
@@ -258,6 +265,7 @@ max-width: 100%;
 .descripcion{
     text-align: right;
     list-style: none;
+    font-style: italic;
 }
 
 .last_card{
